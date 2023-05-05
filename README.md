@@ -1,2 +1,2 @@
 # DS-5100
-UVA Statistical Learning
+UVA - Programming for Data Science 
